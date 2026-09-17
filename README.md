@@ -30,18 +30,6 @@ multi-agent/
     └── ...
 ```
 
-## 🔐 Environment Variables
-
-Create a `.env` file:
-
-```env
-GROQ_API_KEY=your_api_key
-AVIATIONSTACK_API_KEY=your_api_key
-TAVILY_API_KEY=your_api_key
-DATABASE_URL=your_database_url
-```
-
-**Do not upload `.env` to GitHub.**
 
 ## 🌐 Live Demo
 
