@@ -18,7 +18,7 @@ The application uses multiple AI agents to help users plan their trips by findin
 
 ## 🏗️ Project Structure
 
-```text
+
 multi-agent/
 │
 ├── main.py
